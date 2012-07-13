@@ -1,0 +1,5 @@
+\\hv-desmoulin\hvfs\profiles\aifdsc\Documents\SharpDevelop Projects\Audio Changer\AudioChanger\obj\x86\Debug\ResolveAssemblyReference.cache
+\\hv-desmoulin\hvfs\profiles\aifdsc\Documents\SharpDevelop Projects\Audio Changer\AudioChanger\bin\Debug\AudioChanger.exe
+\\hv-desmoulin\hvfs\profiles\aifdsc\Documents\SharpDevelop Projects\Audio Changer\AudioChanger\bin\Debug\AudioChanger.pdb
+\\hv-desmoulin\hvfs\profiles\aifdsc\Documents\SharpDevelop Projects\Audio Changer\AudioChanger\obj\x86\Debug\AudioChanger.exe
+\\hv-desmoulin\hvfs\profiles\aifdsc\Documents\SharpDevelop Projects\Audio Changer\AudioChanger\obj\x86\Debug\AudioChanger.pdb

@@ -1,0 +1,2 @@
+\\hv-desmoulin\hvfs\Profiles\aifdsc\Documents\SharpDevelop Projects\Audio Changer\AudioChanger\obj\Release\ResolveAssemblyReference.cache
+\\hv-desmoulin\hvfs\Profiles\aifdsc\Documents\SharpDevelop Projects\Audio Changer\AudioChanger\obj\Release\AudioChanger.exe
